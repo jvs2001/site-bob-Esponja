@@ -45,4 +45,4 @@ o intuito deste repositorio e aprender as melhores praticas de versionamento de 
 
 Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone
 
-[Acesse aqui](https://github.com/jvs2001/site-bob-Esponja)
+[Acesse aqui](https://jvs2001.github.io/site-bob-Esponja/)
